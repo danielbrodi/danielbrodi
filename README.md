@@ -19,7 +19,7 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 # Contact me
 
 <div>
-  <a href="https://www.linkedin.com/in/daniel-brod/"target="_blank"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
+  <a href="https://www.linkedin.com/in/daniel-brod/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
   &nbsp&nbsp
  <a href="mailto:Brods.Daniel@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="Brods.Daniel@gmail.com" width="8%" title='Gmail'/></a>
 </div>
