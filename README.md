@@ -3,7 +3,7 @@
 I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 <p align="center">
-  <img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover">
+  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a>
 </p>
 
 - 🌐 I love creating and being able to turn an idea into reality.
