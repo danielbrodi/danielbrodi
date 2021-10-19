@@ -8,13 +8,13 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 - 🌐 I love creating and being able to turn an idea into reality.
 
-- 🌱 I’m currently learning **Object Oriented Programming, Java**
+- 🌱 I’m currently learning **Spring, SQL, REST APIs**
 
 - 👯 I’m looking to **Collaborate with other developers and share codes and solutions**
 
 - 🥅 2021 Goals: **Contribute to Open Source projects**
 
-- 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, OOD**
+- 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming**
 
 # Contact me
 
