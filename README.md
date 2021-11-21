@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Brodsky</h1>
-<h3 align="center";">A passionate full stack developer from Israel.</br>
+<h3 align="center";">A passionate software developer from Israel.</br>
 I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 <div>
   <a href="https://www.linkedin.com/in/daniel-brod/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
   &nbsp&nbsp
- <a href="mailto:Brods.Daniel@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="Brods.Daniel@gmail.com" width="8%" title='Brods.Daniel@gmail.com'/></a>
+ <a href="mailto:daniel.brodsky@att.com" target="_blank"><img src ="./images/gmail.svg" alt="daniel.brodsky@att.com" width="8%" title='daniel.brodsky@att.com'/></a>
 </div>
 
 ## Technologies
