@@ -12,7 +12,7 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 - 👯 I’m looking to **Collaborate with other developers and share codes and solutions**
 
-- 🥅 2022 Goals: **Contribute to Open Source projects**
+- 🥅 2023 Goals: **Contribute to Open Source projects**
 
 - 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming**
 
@@ -21,7 +21,7 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 <div>
   <a href="https://www.linkedin.com/in/daniel-brod/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
   &nbsp&nbsp
- <a href="mailto:daniel.brodsky@att.com" target="_blank"><img src ="./images/gmail.svg" alt="daniel.brodsky@att.com" width="8%" title='daniel.brodsky@att.com'/></a>
+ <a href="mailto:brods.daniel@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="brods.daniel@gmail.com" width="8%" title='brods.daniel@gmail.com'/></a>
 </div>
 
 ## Technologies
