@@ -1,23 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel Brodsky</h1>
 <h3 align="center";">A passionate software developer from Israel.</br>
 I may not be a Ninja just yet, but that's where I'm heading.</h3>
-
 <p align="center">
-  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a>
+  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a></br>
+  <img src="https://komarev.com/ghpvc/?username=danielbrodi&color=0ca4a5">
 </p>
 
-- 🌐 I love creating and being able to turn an idea into reality.
-
-- 🌱 I’m currently learning **Spring, SQL, REST APIs**
-
-- 👯 I’m looking to **Collaborate with other developers and share codes and solutions**
-
-- 🥅 2023 Goals: **Contribute to Open Source projects**
-
-- 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming**
-
 ### Languages
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
