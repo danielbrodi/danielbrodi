@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniel Brodsky</h1>
+<img align="right" alt="My github intro" height=250 width=350 src="./images/intro.png" />
+
+<h1 align="center">Hi 👋, I'm Daniel Brodsky </h1>
 <h3 align="center";">A passionate software developer from Israel.</br>
-I may not be a Ninja just yet, but that's where I'm heading.</h3>
-<p align="center">
-  <a href="#"><img src="./images/intro.png" style="border-radius: 5px;" width="500px" title="cover"></a></br>
-  <img src="https://komarev.com/ghpvc/?username=danielbrodi&color=0ca4a5">
-</p>
+
 
 ### Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)](https://www.java.com/)
@@ -24,3 +22,4 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielbrod/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brods.daniel@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=danielbrodi&color=0ca4a5" alt="" height="0">
