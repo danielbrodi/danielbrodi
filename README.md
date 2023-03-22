@@ -1,4 +1,4 @@
-<img align="right" alt="My github intro" height=250 width=350 src="./images/animation.gif" />
+<a href="#"><img align="right" alt="My github intro" height=250 width=350 src="./images/animation.gif" /></a>
 
 <h1 align="center">Hi 👋, I'm Daniel Brodsky </h1>
 <h3 align="center";">I believe that every great idea deserves to be brought to life,</br> and that's why I love what I do – turning ideas into reality.</br>
