@@ -1,4 +1,4 @@
-<img align="right" alt="My github intro" height=250 width=350 src="./images/intro.png" />
+<img align="right" alt="My github intro" height=250 width=350 src="./images/animation.gif" />
 
 <h1 align="center">Hi 👋, I'm Daniel Brodsky </h1>
 <h3 align="center";">A passionate software developer from Israel.</br>
