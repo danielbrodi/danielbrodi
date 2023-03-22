@@ -18,19 +18,19 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
 
 ### Technologies
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed?&logo=docker&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?ge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white)
                                                                                                    
 ### Contact me
 
