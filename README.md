@@ -21,7 +21,6 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?&logo=docker&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white)
                                                                                                    
-### Contact me
-
+## Contact me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
