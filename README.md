@@ -16,30 +16,23 @@ I may not be a Ninja just yet, but that's where I'm heading.</h3>
 
 - 💬 Ask me about **Web Development, Viral Trafficking, Algorithms, Facebook Graph API, Object-oriented programming**
 
-# Contact me
+### Languages
 
-<div>
-  <a href="https://www.linkedin.com/in/daniel-brod/" target="_blank" rel="noopener noreferrer"><img src ="./images/linkedin-logo.svg" alt="LinkedIn logo" width="8%" title='LinkedIn'/></a>
-  &nbsp&nbsp
- <a href="mailto:brods.daniel@gmail.com" target="_blank"><img src ="./images/gmail.svg" alt="brods.daniel@gmail.com" width="8%" title='brods.daniel@gmail.com'/></a>
-</div>
+![C](https://img.shields.io/badge/C-00599C?&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)
 
-## Technologies
-<div>
-  <a href="https://www.oracle.com/java/" target="_blank"><img src ="./images/java.svg" alt="Java logo" width="8%" title='Java'/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src ="./images/c.png" alt="C logo" width="8%" title='C'/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src ="./images/html-5.svg" alt="HTML5 logo" width="8%" title='html'/></a>
-  <a href="https://www.php.net/" target="_blank"><img src ="./images/php.svg" alt="PHP logo" width="8%" title='PHP'/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src ="./images/mysql.svg" alt="MySQL logo" width="8%" title='MySQL'/></a>
-  <a href="https://developers.facebook.com/docs/graph-api/" target="_blank"><img src ="./images/facebook.svg" alt="Facebook logo" width="8%" title='Facebook Graph API'/></a>
-</div>
-                                                                  
-                                                                 
-## Tools
-<div>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src ="./images/visual-studio-code.svg" alt="VS Code logo" width="8%" title='Visual Studio Code'/></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src ="./images/IntelliJ.svg" alt="IntelliJ logo" width="8%" title='IntelliJ'/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src ="./images/git.svg" alt="Git logo" width="8%" title='Git'/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src ="./images/linux.svg" alt="Linux logo" width="8%" title='Linux'/></a>
+### Technologies
 
-</div>
+![Docker](https://img.shields.io/badge/docker-%230db7ed?&logo=docker&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?&logo=Oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?ge&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?&logo=ubuntu&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white)
+                                                                                                   
+### Contact me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
