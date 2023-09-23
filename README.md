@@ -1,6 +1,6 @@
 <a href="#"><img align="right" alt="My github intro" height=250 width=350 src="./images/animation.gif" /></a>
 
-<h1 align="center" style="text-decoration: none;"><a href="#">Welcome to my Matrix</a></h1>
+<h1 align="center"><a href="#"> Welcome to my Matrix </a></h1>
 <h3 align="center";"><a href="#">I believe that every great idea deserves to be brought to life,</br> and that's why I love what I do – turning ideas into reality.</a></br>
 
 
