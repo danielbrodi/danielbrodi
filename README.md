@@ -10,7 +10,7 @@
 [![MySql](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### [&#x200B;](#)<ins>Technologies</ins>
-[![Spring](https://img.shields.io/badge/Guava-6DB33F?&logo=google&logoColor=white)](https://github.com/google/guava/)
+[![Spring](https://img.shields.io/badge/Guice-6DB33F?&logo=google&logoColor=white)](https://github.com/google/guice?tab=readme-ov-file#overview)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?&logo=spring&logoColor=white)](https://spring.io/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?ge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?&logo=Jenkins&logoColor=white)](https://www.jenkins.io/)
